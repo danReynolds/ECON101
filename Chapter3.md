@@ -14,7 +14,7 @@ When all other things remain the same, how does one factor changing influence th
 
 **Substitution Effect** = When the relative price of a good increases, its substitutes will be bought more.
 
-**Income Effect** = when the price of an item increases, consumers still have thes same income, so they must decrease what they buy, either of the item in question or others because they still need the more expensive item.
+**Income Effect** = when the price of an item increases, consumers still have the same income, so they must decrease what they buy, either of the item in question or others because they still need the more expensive item.
 
 The term **demand** refers to the **entire** relationship between the price of a good and the quantity demanded of that good.  **Quantity demanded** refers to a single point on the demand curve, the quantity demanded of the good/service at a particular price.
 
@@ -119,3 +119,7 @@ Shifts in supply: to the right, increases quantity, decreases price. Shift to th
 3. Demand increase, supply decreases, then price increases, new quantity unknown.
 
 4. Supply increases, demand decreases, price falls, new quantity unknown.
+
+Complements-in-production are two or more goods that are jointly produced using a given resource. Producing one results in producing the other.
+
+Substitutes-in-production are two or more goods that can be produced using the same resources. Producing one good prevents sellers from producing the other.
