@@ -50,6 +50,8 @@ This is the market quantity demanded.
 
 ## Consumer Surplus
 
+Area above the market price line, but below the demand curve. This makes sense, consumers were willing to buy it at the demand curve, but only had to pay the market price line, meaning there was a surplus of value for the consumer.
+
 When a good or service is bought for less than it is worth, this is consumer surplus.
 
 **Consumer Surplus** = the excess of benefit received from a good or service over the amount paid for the good or service.
@@ -95,6 +97,8 @@ The government and firms can benefit from understanding the net benefit when a p
 **Market Supply Curve** = the horizontal sum of individual supply curves. Also called the marginal social cost curve (MSC).
 
 **Producer Surplus** = the excess of the amount received from the sale of a good or service over the cost of producing it.
+
+It is the area above the supply curve, but below the market price. Which makes sense, it is the surplus earned by the supplier, they were willing to sell it at the supply curve, but got even more at a higher market price.
 
 The marginal cost of a good or service minus its price, summed over the entire quantity sold.
 
