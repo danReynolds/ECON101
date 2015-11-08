@@ -200,7 +200,7 @@ Markets when supplemented with other market mechanisms can offer an efficient al
 
 1. Fair Results View
 
-It is not fair if the result is not fair. Utilitarianism is a principle that we should strive to achieve the greatest happiness for the greatest number of individuals. Argues that fairness requires equality of income, which requries that incomes are redistributed.
+It is not fair if the result is not fair. Utilitarianism is a principle that we should strive to achieve the greatest happiness for the greatest number of individuals. Argues that fairness requires equality of income, which requires that incomes are redistributed.
 
 But income transfers create a big tradeoff between efficiency and fairness because taxes reduce people's incentive to work. We have a tradeoff because less work is done, but the profit is redistributed more evenly.
 
