@@ -223,3 +223,34 @@ In the long-run, a firm can have different amounts of capital with a correspondi
 **Diseconomies of scale** = feature of a firm's technology that leads to a rising long-run average cost as output increases.
 
 Reach diseconomies of scale as changes occur in the firm and add bureaucracy with added output, all of which increase costs. LRAC is u-shaped.
+
+
+## Review Questions
+
+1. Why would a firm be better of not producing when its economic profits are negative?
+
+If a firm is experiencing negative economic profit, the firm would be better off investing its capital elsewhere.
+
+Since we have the implicit cost of not investing elsewhere. Should seek better alternative use for funds.
+
+2. Does walmart use a command system or an incentive system?
+
+Probably both, command system with hierarchy. Some form of incentive is probably used for senior levels employees.
+
+In contrast, a small coffee shop probably only uses a hierarchal system, since they can be watched and they will work in accordance with the direction of the company.
+
+3. Is a firm economically efficient if it can cut its costs by producing less?
+
+If a firm can decrease production costs by decreasing output, it is not necessarily economically inefficient. If the firm is producing the new level of output at the least possible cost, it is economically efficient.
+
+4. Tim Hortons opening 75 stores vs reducing staff?
+
+First is long-term, as only labour is a short-term decision. Second is short-term, and can be changed pretty easily.
+
+5. Why does the ATC fall when a firm is experiencing economies of sale?
+
+In economies of scale, the cost per unit is decreasing, so the average total cost will fall as more products are created. If the marginal cost is less than the average total cost, the average total cost will fall.
+
+6. Where does diminishing returns kick in?
+
+When the marginal cost starts rising again after falling. Get the U shape to average total cost because eventually, create more will stop making the per unit cost cheaper.
