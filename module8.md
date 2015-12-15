@@ -168,3 +168,50 @@ In a competitive equilibrium, the quantity demanded equals the quantity supplied
 Then if there are no externalities, so if the only people that benefit are those that buy and the only people that it costs are the people who produce it, the firm, then the *demand curve is the same as the marginal social benefit curve and the marginal supply curve is the marginal social supply curve*.
 
 At competitive market equilibrium, marginal social benefit equals the marginal social cost. Resources are being used efficiently. This means that firms make zero, since the marginal social benefit is the sum of all demanded at a given price, and marginal social cost is sum of all supplied at a certain cost. When they're equal, total production cost is same as total revenue, and there can be **no profit**.
+
+## Review
+
+1. Identify two markets that you believe to be perfectly competitive and why.
+
+I would say the market for rubber and the market for cotton. Both markets are very large with many producers and the products associated with each market are identical.
+
+2. You are given the following data about a firm in a competitive market:
+
+Market price = $2
+Firm's output = 100 units
+Firm's ATC = $1.6
+Firm's ATC at an output of 100 units in the minimum ATC
+
+Is the firm making profit?
+
+yes. It's price is higher than it's ATC.
+
+a $40 profit is being made. The firm will not make an economic profit over the long-run, as competitors will enter the market and increase supply until ATC=P.
+
+3. When does a firm in a perfectly competitive market incur a loss?
+
+A firm in a perfectly competitive market will incur a loss when its price is less than the firm's average total cost.
+
+4. What triggers an exit in a perfectly competitive market?
+
+An exit occurs when MC < MR. If the firm believes that in the long-run, it won't be able to get out of this situation, it should shutdown.
+
+5. Describe the course of events in a perfectly competitive market following a permanent increase in demand. What happens to output, price, and economic profit in the short and long-run?
+
+output is the same in the short-run, price increases because there is more demand and the same supply, so economic profit is high.
+
+In the long-run, more firms enter the market because of the economic profit and the added supply decreases the price, increases the output and decreases the economic profit until P = ATC, at which point economic profit is zero and firms stop entering the market. Market price returns to the original level, and market output is permanently increased.
+
+6. What makes a self-interested firm adopt the latest technology?
+
+Firms are always looking for ways to secure an advantage, firms are always looking to reduce costs needed to produce a good or service.
+
+If a new technology exists, firms that do not adopt it will suffer from a loss, because firms that do use it can lower prices because of lower costs. Firms that don't must do something to keep market share, which is to incur an economic loss and exit the industry.
+
+7. Define external diseconomies:
+
+External diseconomies occur when an increase in cost per unit of a good or service exists. If the government increases demand significantly for a defense good that uses new technology, then many firms in the industry may respond, but new firms may enter the industry given the significant increase in demand.
+
+Which could equate to a higher demand for specialized labour, such as scientists or engineers.
+
+The increase in demand for specialized labour would in turn increase the wage rate. This would increase a firm's costs.

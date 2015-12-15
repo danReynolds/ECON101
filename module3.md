@@ -81,4 +81,46 @@ some goods take much longer than others to produce. Some can change their supply
 
 elasticity of supply can be used to forecast future outputs and amount.
 
-Price elasticity of supply is the change in the quantity supplied over the change in price. Like demand, both the numerator and denominator are divided by their averages.
+**Price elasticity of supply** is the change in the quantity supplied over the change in price. Like demand, both the numerator and denominator are divided by their averages.
+
+## Review Questions
+
+1. Which of these goals has a higher elasticity of demand, visits to a football game or visits to a doctor?
+
+Football game, people don't care as much about the price of the game, so if it goes up, people will not go. But going to the doctor is more important to people, so even if the price changes, the demand won't change considerably.
+
+2. Identify two goods that you believe will have a positive cross elasticity of demand
+
+If it is positive, then demand increases as price increased, or demand dropped as price decreases, so the goods must be substitutes, like watermelon and oranges for soccer games.
+
+If it is negative, the demand increased when price decreased, or the demand decreased as price increased, meaning they are complements, like exams and pencils.
+
+3. Does college textbooks or hardcover books have a higher income elasticity of demand?
+
+With change in income, which increases in demand more? Hardcover books, textbooks are needed for classes anyways, so a change in income won't lead to a great change in demand.
+
+The hardcover book is a luxury good.
+
+4.
+
+income falls from 10k to 6k, purchases of gasoline rise from 200 to 400. INcome elasticity of demand?
+
+change in demand/change in INcome
+
+200/avg / 6k - 10k / avg
+= 200/300 / -4k/8k
+= -4/3
+
+5. What are the two main influences on the elasticity of supply that makes the supply of some goods more elastic than others?
+
+Resource substitution possibilities:
+
+the greater the supplier's ability to substitute resources, the greater their ability to react to price changes and the greater the elasticity of supply.
+
+Timeframe for the supply decision:
+
+the greater the amount of time available after the price change, the greater the supplier's ability to adjust quantity supplied, and the greater the elasticity of supply.
+
+8. How can the owner of a store determine if a one-day sale of mittens impacted the number of hats sold?
+
+Hats and mittens are complements, as you decrease the price of one, the demand for the other will increase, having a negative cross elasticity of demand.

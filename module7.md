@@ -215,7 +215,6 @@ Marginal product of labour also diminishes as more people are employed.
 In the long-run, a firm can have different amounts of capital with a corresponding total cost curve. Each average total cost curve is U-shaped, because of the law of diminishing returns as we continue.
 
 **Long-run average cost curve (LRAC)**: the relationship between the lowest attainable total cost curve when both the plant size and labour are varied. Its the curve created by taking the lowest path over all intersecting average total cost curves.
-**Long-run average cost curve (LRAC)**: the relationship between the lowest attainable total cost curve when both the plant size and labour are varied. Its the curve created by taking the lowest path over all intersecting average total cost curves.
 
 **Economies of scale** = features of a firm's technology that leads to falling long-run average cost as output increases.
 

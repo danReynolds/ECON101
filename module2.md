@@ -48,7 +48,6 @@ The price of a good or service impacts the quantity that producers plan to sell.
 
 The law of supply states that, the higher the price of a good or service, the larger the quantity supplied will be. The higher the price of a good or service, the greater the incentive to produce and sell the good or service, as there is more profit, the item is hot right now.
 
-
 Just like the demand curve and schedule, the supply curve has on its horizontal axis the quantity of the good produced and on its y-axis, the price of the good or service.
 
 It is a positive function, the higher the price, the greater the amount produced because the greater the profit if all are sold.
@@ -76,3 +75,31 @@ At this price, the amount that sellers are willing and able to sell equals the a
 Wherever the market is, it will always gravitate towards the market equilibrium. Market forces will push the price and quantity to the equilibrium.
 
 For example, if there is an excess of a certain good, the price for the good will go down, so that all the goods they have can be sold at a lower price. Shifting the intersection point, the market equilibrium, right.
+
+## Review Questions
+
+1. Why is relative price considered an opportunity cost?
+
+Relative price is an opportunity cost because it shows how much of the next best alternative good must be forgone to buy a unit of the first good.
+
+3. When does a surplus arise?
+
+A surplus arises when the market price is above the equilibrium price. The market demanded only 100, but we produced 150 so there is now a surplus of the good.
+
+The surplus causes the price to fall, decreasing the quantity supplied and increasing the quantity demanded until equilibrium is achieved.
+
+4. If early frost damages a crop, what happens?
+
+Supply curve shifts left, decreasing supply and raising the price.
+
+Eating more oranges can stop cancer?
+
+Shifts demand right, raising the price and how much is bought.
+
+5. A set of substitutes in production could be baked potates and french fries.
+
+6. What happens to two different markets if the price of corn rises?
+
+Movie tickets will have less demand, because tickets and corn are complements through popcorn.
+
+Meanwhile, the demand for chips will increase, as chips and popcorn are substitutes and if corn is pricier, more people will turn to chips.

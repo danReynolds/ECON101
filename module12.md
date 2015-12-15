@@ -248,17 +248,17 @@ What type of externality is being associated with take-out food and beverages?
 
 A negative externality is being addressed with take-out foods and beverages because of the pollution from discarding wrappers and beverage containers.
 
-2. Identify if a positive or negative externality is assocaited with the following:
+2. Identify if a positive or negative externality is associated with the following:
 
 A person driving is talking on their cellphone: negative consumption, increased risk of injury to others
 
-A homeowner plants a beautiful garden in their lawn: positive consumption, price of surrounding houses goes up
+A homeowner plants a beautiful garden in their lawn: negative consumption, others get to consume the beautiful sight.
 
 A person is wearing very strong perfume to a public event: negative consumption, people get in a bad mood, might have allergic reactions.
 
-3. If the government cuts a subsidy to colleges, why will tuition rise and the number of students decrease?
+3. If the government cuts a subsidy to colleges, the college cannot cover their costs, and must supply fewer spots for students, shifting the MSC left to increase price and decrease quantity.
 
-The MSC used to equal the MSB, but now MSC > MSB, so the college must shift the supply of positions available left, increasing the cost of tuition and decreasing the number of positions.
+The MC used to equal MSC, but now MC is higher, so the college must shift the supply of positions available left, increasing the cost of tuition and decreasing the number of positions.
 
 4. Is every publicly-provided good a public good?
 

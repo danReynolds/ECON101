@@ -66,8 +66,64 @@ Three impendiments to enabling rational behaviour:
 
   1. Bounded rationality is constrained by the brain's computing power
   2. Bounded willpower is the less than optimal willpower that prevents us from making a decision that we will regret later.
-  3. Bounded self-interest is the limited self-interst that sometimes results in holding back our own interests. Giving donations to a charity for example.
+  3. Bounded self-interest is the limited self-interest that sometimes results in holding back our own interests. Giving donations to a charity for example.
 
 2. Neuroeconomics
 
 The study of activity of the human brain when a person makes an economic decision.
+
+## Review Questions
+
+1. What is the distinction between total utility and marginal utility?
+
+The total utility is the sum of all the utility from past choices up until the present obtained from the goods or services consumed. The marginal utility is the change in total utility, the benefit from consuming one more unit of a good or service.
+
+2. Does a good with a higher total utility also have a higher marginal utility? No, while a good may have had a lot of benefit up until this point, it suddenly has a very low marginal utility and the total utility may even decrease as a result of consuming/purchasing one more unit. An example is a driver's license. The total utility for one license is high, but two is actually a smaller total utility, because it means one must be counterfeit, which is illegal and has a negative benefit.
+
+Water has a high total utility, but a low marginal utility. The value of the next bottle of water is low.
+
+3. If you are writing a test that has lots of questions, how should you allocate your time among the test questions in order to secure the highest score according to marginal analysis?
+
+You would do the ones with the highest utility, the greatest benefit, first in order to secure the highest score.
+
+4. If a consumer's income increases, and if all goods and services are normal, explain how the quantity bought of each good and service changes.
+
+If a consumer's income increases and all goods are normal, then the consumer will buy more of each good and service and the budget line shifts to the right.
+
+The consumer will reach a higher total utility. A rightward shift in the demand curve for the good or service occurs.
+
+5. Sarah is consuming tea biscuits according to her optimal consumption bundle, explain what this means. How does Sarah react when an increase in the price of biscuits occurs?
+
+If Sarah is consuming her optimal bundle of tea and biscuits, that means she has allocated her income such that the marginal utility per dollar from biscuits equals the marginal utility per dollar from tea.
+
+MU per dollar of tea = MU per dollar of biscuits
+
+If the price of biscuits rises, the marginal utility for tea increases and Sarah will buy more tea and fewer biscuits until the marginal utility is again equal.
+
+6.
+
+Marginal utility, with $23
+
+Good A: Price $2
+
+Quantity Total Utility Marginal Utility MU/P
+======== ============= ================ ====
+1        10            10               5
+2        18            8                4
+3        24            6                3
+4        28            4                2
+5        30            2                1
+
+Good B: Price $5
+
+Quantity Total Utility Marginal Utility MU/P
+======== ============= ================ ====
+1        20            20               4
+2        35            15               3
+3        45            10               2
+4        50            5                1
+5        51            1                1/5
+
+Since there are multiple points where marginal utility per dollar is equal for the good, the consumer selects the point that maximizes total utility.
+
+This is at $23.

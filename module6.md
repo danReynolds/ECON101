@@ -85,13 +85,13 @@ A perfect substitute is one where the consumer is completely indifferent which o
 
 They have no incentive to pick one over the other. Coke and Pepsi for example, I don't care.
 
-Have a slope of 1.
+Budget line has a slope of -1. Don't care which one you want more.
 
 ### Perfect complements
 
 Goods or services that must be consumed in a precise combination in order to provide a defined level of satisfaction.
 
-Left and right shoes for example, form an L shape at 1 and 1 since we only want 1 of each. Having one left vs l0 left does not add any value.
+Left and right shoes for example, form an L shape at 1 and 1 since we only want 1 of each. Having one left vs l0 left does not add any value, and remains at the same distance from the origin, and therefore the same utility.
 
 ## Consumer's Best Affordable Choice
 
@@ -112,7 +112,7 @@ The relative prices are the slope of the budget line, and the marginal rate of s
 Recalling that MRS = $\frac{MU_x}{MU_y}$,
 then we have MRS = the rate at which a consumer is willing to give up a good or service y to get more of x = relative price = rate at which a consumer can give up good or service y to get an additional unit of good or service x.
 
-### Utility-maximizng Rule
+### Utility-maximizing Rule
 
 A consumer's total utility is maximized if:
 
@@ -171,3 +171,31 @@ Meanwhile for an inferior good, the substitution effect is positive and the inco
 3. If negative income effect > positive substitution effect, then a fall in prices results in decrease in quantity bought.
 
 Which would therefore be a positive slope demand curve, which is rare.
+
+## Review Questions
+
+1. Joe has $18 to spend on tacos and black beans, tacos cost $0.5 each and black beans cost $2 each.
+
+The formula is 18 = 0.5y + 2x
+
+y = 36 - 4x can satisfy any combo that satisfy this equation, this is the budget line.
+
+2. Take the budget line from 1. and assume the following preference maps apply:
+
+Joe's best affordable choice is at 5 black beans and 16 tacos, because that is where the budget line intersects the furthest indifference curve. The further the indifference curve, the greater the benefit to the consumer.
+
+The marginal rate of substitution is the slope at this point, which is -4.
+
+3. Take the budget line from 1. and show what happens to Joe's best affordable bundle if his income increases to $22, assuming no price change.
+
+If Joe's income increases to $22, then his best affordable bundle moves to further out, to another indifference curve on the preference map. The budget line now intersects an indifference curve with a higher level of utility, more benefit for the same amount of money.
+
+Both of the goods are normal, because with more income, more of each was bought.
+
+4. Describe the two effects with the price effect.
+
+The price effect is broken into two effects:
+
+The substitution effect is the effect of a change in price on the quantity bought when a consumer remains on the same indifference curve between the original situation and the new situation. So where you move to on the indifference curve.
+
+The income effect is the effect of a change in income needed to get the consumer to the highest level of indifference curve that is affordable and on the new budget line reflecting the price change.

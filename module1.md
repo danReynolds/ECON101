@@ -38,6 +38,8 @@ Prices within markets coordinate the firms' and households' decisions.
 
 ## Production Possibility Frontier (PPF)
 
+PPF shows the amount you can get of one good graphed against another. The frontier is the curve itself, so we can get any combo along the frontier, 10 of x, 20 of y, 0 of x, 30 of y, etc.
+
 Y-axis, the cost and X-axis, the benefit.
 
 Opportunity cost = ratio of what we give up to what we get.
@@ -53,3 +55,39 @@ Opportunity cost = ratio of what we give up to what we get.
 **Absolute Advantage** = One party can produce a larger amount of a good than anyone else given the same resources in a defined time period.
 
 **Comparative Advantage** = In an activity, one person has a lower opportunity cost, get a lot for what it costs, for a particular good or service when compared to another. Export what you have an advantage in, import what you don't.
+
+## Review Questions
+
+1. Why is there a tradeoff between equity and efficiency?
+
+Taxes and welfare payments make people more equal in monetary terms, but both taxes and welfare payments can reduce the incentive to work hard.
+
+With this reduced, less output is achieved and a tradeoff exists. The share of wealth is more equal, but the total is smaller.
+
+2. What factors of production cause the production possibility curve (PPF) to bow out and what will cause the PPF to shift to the right?
+
+Increasing the opportunity cost causes the PPF to bow out, as more of any good is produced, opportunity cost rises.
+
+More innovation resulting in technology and advancement will shift the PPF out, assuming an improvement in productivity resulted from the innovation.
+
+More investment in equipment also would shift it out, as it would increase productivity.
+
+3. Water is considered essential, Diamonds are a luxury. Would the value of water compared to diamonds change if we were in the desert?
+
+If we were in a desert, the marginal benefit of water becomes very high.'
+
+4. Why was introducing seatbelts in cars resulting in a smaller reduction of deaths than predicted?
+
+Wearing seat belts in cars decreases the cost of an accident, meaning that more people are willing to engage in behaviour that results in an accident, because of the lower cost. They could afford to take the risk more with the lowered cost.
+
+The cost reduction acted as an incentive for people to drive faster, leading to more accidents.
+
+5. A university elects to lower parking fees on campus by half, from $400 per term to $200 per term.
+
+The number of parking spots desired will increase, and the demand curve shifts right.
+
+The reduced cost of parking does not reflect the true cost of the parking, as now the value of time looking for a parking spot needs to be considered.
+
+7. If the PPF for x vs y shows that we lose 60 y if we get 100 x, what is the opportunity cost?
+
+The opportunity cost is how much we give up over how much we get, so its 0.6 y per 1 x.

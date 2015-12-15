@@ -202,7 +202,7 @@ Markets when supplemented with other market mechanisms can offer an efficient al
 
 It is not fair if the result is not fair. Utilitarianism is a principle that we should strive to achieve the greatest happiness for the greatest number of individuals. Argues that fairness requires equality of income, which requires that incomes are redistributed.
 
-But income transfers create a big tradeoff between efficiency and fairness because taxes reduce people's incentive to work. We have a tradeoff because less work is done, but the profit is redistributed more evenly.
+But income transfers create a **big tradeoff** between efficiency and fairness because taxes reduce people's incentive to work. We have a tradeoff because less work is done, but the profit is redistributed more evenly.
 
 The size of the profit is reduced, so this is called not fair.
 
@@ -212,7 +212,7 @@ John Rawls proposed a modified utilitarianism view in 1971, believed that the di
 
 It is not fair if the rule is not fair.
 
-**Symmetry principle** = people in similar opportunities should be treated the same way.
+**Symmetry principle** = people in similar opportunities should be treated the same way. If I want to make $100000 and work enough I should be able to? Equality of income opportunity versus the equality of economic output.
 
 In 1974, Robert Nozick suggested that government should promote fairness by establishing property rights for individuals and allowing only voluntary exchange of these resources.
 
@@ -247,3 +247,57 @@ The level of poverty has fluctuated from 14% to 18% from 1975 to 2010.
 In 2009 the richest 20% of households received 44.2% percent of total income and the poorest 20% received 4.9% of total income.
 
 Income inequalities exists because of various market failures that cannot be effectively addressed. The competitive market structure does have points of failure.
+
+## Review Questions
+
+1. Provide an example of when the following market allocation approaches do not work well:
+
+market price:
+
+People who need a resource but are not able to buy it might not get it.
+
+first-come first-serve:
+
+slow people won't get anything
+
+lottery:
+
+random assignment, people could starve.
+
+force:
+
+people who are not strong do not get what they need
+
+2. What would happen to consumer surplus and producer surplus in the market for milk if a ban on the use of certain hormones for cows dramatically lowers the amount of milk each cow produces?
+
+The supply would decrease, meaning quantity goes down and price goes up. Since price goes up, and demand is the same, consumer surplus is smaller.
+
+The change to producer surplus cannot be known, because while price has gone up, costs have gone up.
+
+3. Market demand and supply for coffee at a local coffee shop:
+
+Equilibrium price and quantity is $1.00 at 2000. The consumer surplus is $2000, the producer surplus is $1000.
+
+The total surplus is $3000.
+
+4. Some nations have more water that they can use, while others do not, if water had a global market, like oil, how would it be allocated?
+
+A market price approach would prevail, providing as much water as everyone needs.
+
+The market for water would determine the price using supply and demand. Areas with excess would export.
+
+Incentive to conserve water where supply low.
+
+5. What are the obstacles to achieving an efficient allocation of resources in a competitive market?
+
+Lack of information on part of the buyers and sellers can producers a producer surplus.
+
+It is sometimes hard to know how much to produce, or what the demand is for a certain good, leading to underproduction and overproduction, incurring a deadweight loss in the market and inefficiency. Taxes and subsidies are unavoidable, making the market inefficient.
+
+While it may be efficient for a company to produce a certain chemical, it can harm the environment, having an associated cost for the marginal social cost as a result of this, like the cost of society cleaning up pollution.
+
+6. State the big trade-off and what concept of fairness has been introduced with the big trade-off.
+
+The big-tradeoff is part of the **fair results** view, where the tradeoff is between fairness and efficiency. While distributing results from work more evenly is fairer for everyone, the total amount of results are decreased because people are disincentivized to work hard, given that they will receive as much as everyone else.
+
+This leads to a more even but smaller distribution of results and because the total amount for all of society has decreased, it is viewed as unfair to society.
